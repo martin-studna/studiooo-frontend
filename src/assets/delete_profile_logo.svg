@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#f57474"/>
+      <stop offset="1" stop-color="#f21649"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_5298" data-name="Group 5298" transform="translate(-920 -444)">
+    <circle id="Ellipse_94" data-name="Ellipse 94" cx="40" cy="40" r="40" transform="translate(920 444)" fill="#e4eaf2"/>
+    <path id="Union_12" data-name="Union 12" d="M.875,43.132A6.125,6.125,0,1,1,7,49.256,6.125,6.125,0,0,1,.875,43.132ZM0,7.148A7.262,7.262,0,0,1,7,0a7.263,7.263,0,0,1,7,7.148c0,3.665-.233,26.111-7,26.111S0,10.813,0,7.148Z" transform="translate(953 459.383)" fill="url(#linear-gradient)"/>
+    <g id="Group_5294" data-name="Group 5294" transform="translate(-646.5 -9216.729)" opacity="0.326">
+      <g id="Group_5250" data-name="Group 5250" transform="translate(3808.246 7157.728) rotate(90)">
+        <path id="Path_4589" data-name="Path 4589" d="M2547.878,2186.473a9.06,9.06,0,0,0-9.9,0" transform="translate(0.072 0.107)" fill="none" stroke="#808b9d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.6"/>
+        <path id="Path_4590" data-name="Path 4590" d="M2551.35,2182.771a14.073,14.073,0,0,0-16.772,0" transform="translate(0.036 0.053)" fill="none" stroke="#808b9d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.6"/>
+        <path id="Path_4591" data-name="Path 4591" d="M2554.811,2179.082a19.125,19.125,0,0,0-23.621,0" fill="none" stroke="#808b9d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.6"/>
+      </g>
+      <g id="Group_5251" data-name="Group 5251" transform="translate(-595.246 12243.729) rotate(-90)">
+        <path id="Path_4589-2" data-name="Path 4589" d="M2547.878,2186.473a9.06,9.06,0,0,0-9.9,0" transform="translate(0.072 0.107)" fill="none" stroke="#808b9d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.6"/>
+        <path id="Path_4590-2" data-name="Path 4590" d="M2551.35,2182.771a14.073,14.073,0,0,0-16.772,0" transform="translate(0.036 0.053)" fill="none" stroke="#808b9d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.6"/>
+        <path id="Path_4591-2" data-name="Path 4591" d="M2554.811,2179.082a19.125,19.125,0,0,0-23.621,0" fill="none" stroke="#808b9d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2.6"/>
+      </g>
+    </g>
+  </g>
+</svg>

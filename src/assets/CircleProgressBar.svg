@@ -1,0 +1,7 @@
+<svg class="stat-circle" width="150" height="150" viewBox="0 0 20 20">
+  <circle class="bg" cx="10" cy="10" r="8" />
+  </circle>
+  <circle class="progress" cx="10" cy="10" r="8" :data-percentage="percentage" />
+  </circle>
+  <text x="50%" y="55%">{{ percentage }}%</text>
+</svg>

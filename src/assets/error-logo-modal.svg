@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80">
+  <g id="Group_5298" data-name="Group 5298" transform="translate(-920 -444)">
+    <circle id="Ellipse_94" data-name="Ellipse 94" cx="40" cy="40" r="40" transform="translate(920 444)" fill="#ef5a64"/>
+    <g id="Group_7" data-name="Group 7" transform="translate(947.864 471.903)">
+      <g id="Zavřít" transform="translate(22.593 1.882) rotate(45)">
+        <path id="Line" d="M0,0V29.18" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="7"/>
+      </g>
+      <g id="Zavřít-2" data-name="Zavřít" transform="translate(22.311 22.311) rotate(135)">
+        <path id="Line-2" data-name="Line" d="M0,0V29.18" transform="translate(0 0)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="7"/>
+      </g>
+    </g>
+  </g>
+</svg>
